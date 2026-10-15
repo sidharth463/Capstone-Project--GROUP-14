@@ -1,4 +1,4 @@
-# Capstone-Project--GROUP-14
+# Capstone-Project[GROUP-14]
 # FAULT DETECTION IN A TRANSMISSION LINE
 
 ## Project Overview
@@ -37,7 +37,7 @@ The project follows a six-stage mathematical pipeline:
 - NumPy
 - SciPy
 - Matplotlib
-- LaTeX / Overleaf
+- LaTeX Overleaf 
 - GitHub
 
 ## Simulation Parameters
