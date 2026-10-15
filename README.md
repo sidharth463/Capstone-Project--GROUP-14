@@ -1,5 +1,5 @@
 # Capstone-Project--GROUP-14
-# Transmission Line Signal Integrity and Fault Reconstruction
+# FAULT DETECTION IN A TRANSMISSION LINE
 
 ## Project Overview
 
