@@ -67,15 +67,6 @@ The residual error is also evaluated to assess the agreement between the simulat
 - The results depend on the assumptions used in the mathematical model.
 - Experimental validation on a physical transmission line is not included.
 
-## Repository Contents
-
-- "README.md" — Project overview and documentation.
-- Python / Google Colab notebook — Simulation and numerical analysis.
-- Project report (PDF) — Mathematical formulation, methodology, and results.
-- Result plots — TDR response and reconstructed parameter profiles.
-
-The actual repository contents may vary depending on the files uploaded.
-
 ## Conclusion
 
 This project demonstrates how electromagnetic modelling, numerical methods, and optimization can be combined to study transmission-line signal integrity and reconstruct possible fault locations using synthetic TDR data.
